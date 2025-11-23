@@ -48,7 +48,11 @@ while giving artists a reliable way to showcase their skills and earn income.</p
 
       <section id="background" class="card section">
         <h2>2. Background & Motivation</h2>
-        <p>Many artisanal commissions are coordinated over DMs and comments, which makes tracking, payments, and references fragile. CustomCraft aims to reduce friction and provide a professional, persistent workflow for both clients and artists.</p>
+        <p><strong>CustomCraft</strong> is important to me and probably other people because I've experienced this problem before. I look up something on sites like Etsy or Amazon, but the item I want either doesn't exist, or does not fit a style I like. By developing this app, I hope that I can fix this ongoing issue of specialized items not existing on the marketplace. I've seen how talented some artists are and want to give them a platform that feels comfortable to be commissioned and earn some hard-earned money for their work.</p>
+        <iframe width="560" height="315"
+        src="https://youtu.be/jZIUqSs53cI"
+        frameborder="0" allowfullscreen></iframe>
+        
       </section>
 
       <section id="approach" class="card section">
