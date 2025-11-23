@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
@@ -14,7 +13,7 @@
         <div class="meta"><span class="status-dot"></span> CS Capstone • Fall 2025</div>
         <h1 class="title">CustomCraft</h1>
         <p class="lead">
-          A mobile platform connecting customers and independent artists to commission custom handmade items — from secure payments and project tracking to streamlined communication and artist portfolios.
+          CustomCraft is an application made for Android that allows users to search for artists and be able to commission them for custom made items. Artists can use this app to be commissioned and earn money. This app provides a platform for customers to connect with artists or artisans for the purpose of purchasing custom commissioned arts and crafts.
         </p>
 
         <div class="pills">
