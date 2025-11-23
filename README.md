@@ -39,7 +39,11 @@
         <h2>1. Project Title & Introduction</h2>
         
         <p><strong>CustomCraft</strong> is an application made for Android that allows users to search for artists and be able to commission them for custom made items. Artists can use this app to be commissioned and earn money. This app provides a platform for customers to connect with artists or artisans for the purpose of purchasing custom commissioned arts and crafts. .</p>
-        <p>This project focuses on empowering users to bring their creative ideas to life by connecting them with artists who craft custom-made items. CustomCraft demonstrates a full end-to-end solution, combining a mobile app and cloud-based backend to handle commission requests, artist profiles, messaging, and project management in a seamless and scalable way. </p>
+        <p>Many online marketplaces focus on selling pre-made items, which leaves little room for customers who want something unique or personalized. People sometimes want a product in a specific style, but it doesn't exist on the marketplace. Current systems for commissioning work are often done through social media or informal messaging, which could be disorganized and unreliable for the artist and customer.</p>
+
+    <p>CustomCraft addresses this issue by providing an application where users can request custom-made items and artists can earn some income from commissions. The goal of this project is to be able to give a way of
+customers being able to gain an item they've longed for, and for artists to get paid for their hard work in the process. By creating a user-friendly platform, CustomCraft helps customers turn their ideas into reality
+while giving artists a reliable way to showcase their skills and earn income.</p>
       </section>
 
       <section id="background" class="card section">
