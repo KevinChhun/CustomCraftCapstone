@@ -13,11 +13,11 @@
         <div class="meta"><span class="status-dot"></span> CS Capstone • Fall 2025</div>
         <h1 class="title">CustomCraft</h1>
         <p class="lead">
-          CustomCraft is an application made for Android that allows users to search for artists and be able to commission them for custom made items. Artists can use this app to be commissioned and earn money. This app provides a platform for customers to connect with artists or artisans for the purpose of purchasing custom commissioned arts and crafts.
+          An Android application that allows users to commission custom made items.
         </p>
 
         <div class="pills">
-          <span class="pill">Project Type: Mobile App & HCI</span>
+          <span class="pill">Project Type: Android Mobile App</span>
           <span class="pill">Platform: Android (Kotlin, Jetpack Compose)</span>
           <span class="pill">Backend: Firebase (Auth, Firestore, Storage)</span>
         </div>
@@ -37,8 +37,8 @@
     <main class="container">
       <section id="intro" class="card section">
         <h2>1. Project Title & Introduction</h2>
-        <p><strong>CustomCraft</strong> is a mobile-first commissioning platform for handmade goods. It organizes commission requests, supports secure payments, lets artists publish portfolios, and provides a step-by-step workflow for custom orders.</p>
-        <p>We implemented a full end-to-end prototype (mobile client + cloud backend) to demonstrate usability and technical feasibility.</p>
+        <p><strong>CustomCraft</strong> is an application made for Android that allows users to search for artists and be able to commission them for custom made items. Artists can use this app to be commissioned and earn money. This app provides a platform for customers to connect with artists or artisans for the purpose of purchasing custom commissioned arts and crafts. .</p>
+        <p>This project focuses on empowering users to bring their creative ideas to life by connecting them with artists who craft custom-made items. CustomCraft demonstrates a full end-to-end solution, combining a mobile app and cloud-based backend to handle commission requests, artist profiles, messaging, and project management in a seamless and scalable way. </p>
       </section>
 
       <section id="background" class="card section">
