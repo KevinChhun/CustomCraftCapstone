@@ -52,7 +52,7 @@ while giving artists a reliable way to showcase their skills and earn income.</p
         <iframe width="560" height="315"
         src="https://youtu.be/jZIUqSs53cI"
         frameborder="0" allowfullscreen></iframe>
-        
+        <p>https://youtu.be/jZIUqSs53cI</p>
       </section>
 
       <section id="approach" class="card section">
