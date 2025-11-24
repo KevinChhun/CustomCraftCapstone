@@ -126,7 +126,7 @@ eventually to the finished product I have. I used a mockup I made during Capston
         <p>If you wanted to give some feedback, here is the form to do so:</p>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSeKXZCcMjlS90mZu1vFUFU5cJN-0HmpnCWHJGYMP0l_T1gPww/viewform" target="_blank">https://docs.google.com/forms/d/e/1FAIpQLSeKXZCcMjlS90mZu1vFUFU5cJN-0HmpnCWHJGYMP0l_T1gPww/viewform</a>
         <p>Contact email: customcraftcapstone@gmail.com</p>
-        <p>Source code: https://github.com/KevinChhun/CustomCraft
+        <p>Source code: https://github.com/KevinChhun/CustomCraft</p>
       </section>
 
       <section id="ack" class="card section">
