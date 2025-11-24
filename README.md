@@ -55,7 +55,7 @@ while giving artists a reliable way to showcase their skills and earn income.</p
       </section>
 
       <section id="approach" class="card section">
-  <h2>3. Methodology/Approach <span class="subtitle">HOW I DEVELOPED IT</span></h2>
+  <h2>3. Methodology/Approach</h2>
 
   <div class="two-col">
     <!-- LEFT COLUMN -->
@@ -92,7 +92,7 @@ eventually to the finished product I have. I used a mockup I made during Capston
       </p>
 
       <div class="highlight-box">
-        <strong>Architecture (high-level):</strong><br>
+        <strong>Architecture:</strong><br>
         Android App ⇄ Firebase Auth (Users)<br>
         ⇄ Firestore (Commissions, Messaging)<br>
         ⇄ Firebase Storage (Images)<br>
@@ -103,7 +103,7 @@ eventually to the finished product I have. I used a mockup I made during Capston
 
       <section id="results" class="card section">
         <h2>4. Results & Findings</h2>
-        <p>The prototype supports: artist profiles, commission requests with references, deadline tracking, in-app messaging, image uploads, and mock payment flow.</p>
+        <p>Here are some mock pictures I saved while working on the app</p>
       </section>
 
       <section id="future" class="card section">
