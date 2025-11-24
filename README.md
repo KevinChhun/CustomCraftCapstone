@@ -38,10 +38,10 @@
       <section id="intro" class="card section">
         <h2>1. Project Title & Introduction</h2>
         
-        <p><strong>CustomCraft</strong> is an application made for Android that allows users to search for artists and be able to commission them for custom made items. Artists can use this app to be commissioned and earn money. This app provides a platform for customers to connect with artists or artisans for the purpose of purchasing custom commissioned arts and crafts. .</p>
+        <p><strong>CustomCraft</strong> is an application made for Android that allows users to search for artists and be able to commission them for custom made items. Artists can use this app to be commissioned and earn money. This app provides a platform for customers to connect with artists or artisans for the purpose of purchasing custom commissioned arts and crafts.</p>
         <p>Many online marketplaces focus on selling pre-made items, which leaves little room for customers who want something unique or personalized. People sometimes want a product in a specific style, but it doesn't exist on the marketplace. Current systems for commissioning work are often done through social media or informal messaging, which could be disorganized and unreliable for the artist and customer.</p>
 
-    <p>CustomCraft addresses this issue by providing an application where users can request custom-made items and artists can earn some income from commissions. The goal of this project is to be able to give a way of
+    <p><strong>CustomCraft</strong> addresses this issue by providing an application where users can request custom-made items and artists can earn some income from commissions. The goal of this project is to be able to give a way of
 customers being able to gain an item they've longed for, and for artists to get paid for their hard work in the process. By creating a user-friendly platform, CustomCraft helps customers turn their ideas into reality
 while giving artists a reliable way to showcase their skills and earn income.</p>
       </section>
@@ -55,9 +55,51 @@ while giving artists a reliable way to showcase their skills and earn income.</p
       </section>
 
       <section id="approach" class="card section">
-        <h2>3. Methodology / Approach</h2>
-        <p>User interviews → low-fi prototypes → iterative UI built in Jetpack Compose → backend using Firebase (Firestore for data, Storage for images, Cloud Functions for server-side logic).</p>
-      </section>
+  <h2>3. Methodology/Approach <span class="subtitle">HOW I DEVELOPED IT</span></h2>
+
+  <div class="two-col">
+    <!-- LEFT COLUMN -->
+    <div class="left">
+      <p>
+        In order to develop this app from the start, I didn't know how to code in Kotlin or Jetpack Compose so I had to look up YouTube videos on how to do so. After a couple weeks of my Capstone Prep semester, I learned the basics and was ready to start developing. I started first by designing a homescreen, then to a profile, then
+eventually to the finished product I have. I used a mockup I made during Capstone Prep in order to have an idea on what I need to work on. After I made a couple front-end screens, I started to develop the back-end where I had to figure out how Firebase worked.
+      </p>
+
+      <h3>Process</h3>
+      <ul>
+        <li><strong>Research:</strong> Needed to learn how to code in Kotlin and Jetpack Compose.</li>
+        <li><strong>System Design:</strong> Defined data structures for users, commissions, messages, and media. Designed UI flows and backend logic.</li>
+        <li><strong>Implementation:</strong> Built the Android app using Kotlin + Jetpack Compose and implemented Firebase Auth, Firestore, and Storage.</li>
+        <li><strong>Testing & Iteration:</strong> Conducted multiple tests, refined UI based on feedback, and validated database rules and message syncing.</li>
+      </ul>
+    </div>
+
+    <!-- RIGHT COLUMN -->
+    <div class="right">
+      <h3>Technologies & Tools</h3>
+
+      <div class="pill-group">
+        <span class="pill">Kotlin</span>
+        <span class="pill">Jetpack Compose</span>
+        <span class="pill">Firebase Auth</span>
+        <span class="pill">Firestore DB</span>
+        <span class="pill">Firebase Storage</span>
+      </div>
+
+      <p>
+        The Android app handles user interactions, commission flows, and messaging,
+        while Firebase manages authentication, real-time data syncing, and media storage.
+      </p>
+
+      <div class="highlight-box">
+        <strong>Architecture (high-level):</strong><br>
+        Android App ⇄ Firebase Auth (Users)<br>
+        ⇄ Firestore (Commissions, Messaging)<br>
+        ⇄ Firebase Storage (Images)<br>
+      </div>
+    </div>
+  </div>
+</section>
 
       <section id="results" class="card section">
         <h2>4. Results & Findings</h2>
