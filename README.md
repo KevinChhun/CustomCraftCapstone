@@ -129,6 +129,7 @@ eventually to the finished product I have. I used a mockup I made during Capston
 
       <section id="ack" class="card section">
         <h2>7. Acknowledgments</h2>
+        <p>This project was completed as part of the Computer Science Capstone at California State University Channel Islands. I would like to express my sincere appreciation to <strong>Professor Reza Abdolee</strong> for his guidance, feedback, and continual support throughout the development of CustomCraft.</p>
         <p>Thank you to all of my professors and classmates who've helped me on this journey. 
 Special thanks to Taylor Mack, Nick Colmenro, and Edward Brecht. Professor Abdolee has given me tips on how I can make this project how it is.</p>
       </section>
