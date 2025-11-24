@@ -121,8 +121,8 @@ eventually to the finished product I have. I used a mockup I made during Capston
 
       <section id="feedback" class="card section">
         <h2>6. Feedback</h2>
-        <p>If you wanted to give some feedback, here is the form to do so!</p>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeKXZCcMjlS90mZu1vFUFU5cJN-0HmpnCWHJGYMP0l_T1gPww/viewform" target="_blank"></a>
+        <p>If you wanted to give some feedback, here is the form to do so:</p>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeKXZCcMjlS90mZu1vFUFU5cJN-0HmpnCWHJGYMP0l_T1gPww/viewform" target="_blank">Click here to give feedback!</a>
       </section>
 
       <section id="ack" class="card section">
