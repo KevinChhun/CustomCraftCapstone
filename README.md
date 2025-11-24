@@ -112,17 +112,18 @@ eventually to the finished product I have. I used a mockup I made during Capston
 
       <section id="future" class="card section">
         <h2>5. Discussion & Future Work</h2>
-        <p>
-        *Add a secure way of processing payments
-        *Improve filters to help users find artists
-        *Add a notification system to notify users when a commission gets accepted
-        *Expand tools that allows users to customize their profiles more</p>
+        <p>If I continue this app in the future, I would like to:</p>
+        <ul>
+        <li>Add a secure way of processing payments</li>
+        <li>Improve filters to help users find artists</li>
+        <li>Add a notification system to notify users when a commission gets accepted</li>
+        <li>Expand tools that allows users to customize their profiles more</li>
       </section>
 
       <section id="feedback" class="card section">
         <h2>6. Feedback</h2>
         <p>If you wanted to give some feedback, here is the form to do so:</p>
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeKXZCcMjlS90mZu1vFUFU5cJN-0HmpnCWHJGYMP0l_T1gPww/viewform" target="_blank">Click here to give feedback!</a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeKXZCcMjlS90mZu1vFUFU5cJN-0HmpnCWHJGYMP0l_T1gPww/viewform" target="_blank">https://docs.google.com/forms/d/e/1FAIpQLSeKXZCcMjlS90mZu1vFUFU5cJN-0HmpnCWHJGYMP0l_T1gPww/viewform</a>
       </section>
 
       <section id="ack" class="card section">
