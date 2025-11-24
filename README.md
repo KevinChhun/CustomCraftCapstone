@@ -104,6 +104,8 @@ eventually to the finished product I have. I used a mockup I made during Capston
       <section id="results" class="card section">
         <h2>4. Results & Findings</h2>
         <p>Here are some mock pictures I saved while working on the app</p>
+        <img src="chatproto" alt="First Chat Prototype">
+        <img src="chatproto2" alt="First Chat Prototype">
       </section>
 
       <section id="future" class="card section">
