@@ -118,6 +118,7 @@ eventually to the finished product I have. I used a mockup I made during Capston
         <li>Improve filters to help users find artists</li>
         <li>Add a notification system to notify users when a commission gets accepted</li>
         <li>Expand tools that allows users to customize their profiles more</li>
+      </section>
 
       <section id="feedback" class="card section">
         <h2>6. Feedback</h2>
