@@ -112,17 +112,23 @@ eventually to the finished product I have. I used a mockup I made during Capston
 
       <section id="future" class="card section">
         <h2>5. Discussion & Future Work</h2>
-        <p>Planned: integrated payments, discovery algorithms, ratings, analytics dashboard, and multi-language support.</p>
+        <p>
+        *Add a secure way of processing payments
+        *Improve filters to help users find artists
+        *Add a notification system to notify users when a commission gets accepted
+        *Expand tools that allows users to customize their profiles more</p>
       </section>
 
       <section id="feedback" class="card section">
         <h2>6. Feedback</h2>
-        <p>Open for instructor and peer feedback — notes from usability tests will be added here.</p>
+        <p>If you wanted to give some feedback, here is the form to do so!</p>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeKXZCcMjlS90mZu1vFUFU5cJN-0HmpnCWHJGYMP0l_T1gPww/viewform" target="_blank">
       </section>
 
       <section id="ack" class="card section">
         <h2>7. Acknowledgments</h2>
-        <p>Thanks to mentors, participants, and classmates who helped with user research and testing.</p>
+        <p>Thank you to all of my professors and classmates who've helped me on this journey. 
+Special thanks to Taylor Mack, Nick Colmenro, and Edward Brecht. Professor Abdolee has given me tips on how I can make this project how it is.</p>
       </section>
 
       <footer class="footer">
