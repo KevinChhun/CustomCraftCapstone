@@ -107,7 +107,7 @@ eventually to the finished product I have. I used a mockup I made during Capston
         <img src="chatproto.jpg" alt="First Chat Prototype" width="250">
         <img src="chatproto2.jpg" alt="First Chat Prototype" width="250">
         <img src="profileprototype.jpg" alt="Profile Prototype" width="250">
-        <img src="CustomCraft.png" width="500">
+        <img src="CustomCraft.jpg" width="500">
       </section>
 
       <section id="future" class="card section">
